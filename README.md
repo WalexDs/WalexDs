@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **quele.mdz@gmail.com**
 
-- 📄 Know about my experiences [resume]([resume](https://github.com/WalexDs/resume/blob/94faf41cd34d5cb5758b7837f2eecc029382e195/Alexander%20Mendez.pdf))
+- 📄 Know about my experiences [resume](https://github.com/WalexDs/resume/blob/94faf41cd34d5cb5758b7837f2eecc029382e195/Alexander%20Mendez.pdf)
 
 - ⚡ Fun fact **I love cooking and baking, I have found so many solutions to my tech projects when doing so**
 
